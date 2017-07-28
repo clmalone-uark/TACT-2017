@@ -1,7 +1,3 @@
-// -------------------------------------------------------------
-// The contents of this file are dedicated to the public domain.
-// (See http://creativecommons.org/publicdomain/zero/1.0/).
-// -------------------------------------------------------------
 package game;
 
 import java.awt.event.ActionListener;
