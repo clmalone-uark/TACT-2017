@@ -6,3 +6,5 @@ Source code created during TACT 2017.
 * Game.java - Completed Flappy Bird game
 * * images/ - required for Game.java to work
 * AtomVizBase.java - AtomViz simulation
+* LICENSE - Unless otherwise stated, all source code licensed under GPLv3
+* README.md - What you're reading right now
