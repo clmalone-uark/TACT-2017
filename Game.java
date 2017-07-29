@@ -213,7 +213,7 @@ class View extends JPanel {
     }
     
     /**
-     * TODO: Eventually move into Pipe
+     * TODO: Eventually move into Pipe?
      * @return whether or not the pipes are overlapping
      */
     private boolean pipesOverlapping() {
@@ -221,7 +221,7 @@ class View extends JPanel {
     }
     
     /**
-     * TODO: Eventually move into Pipe
+     * TODO: Eventually move into Pipe?
      * @return whether or not the pipes are too far apart for a challenge 
      */
     private boolean pipesFarApart() {
